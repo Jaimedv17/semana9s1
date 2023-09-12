@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+}
+
+.contenedor{
+    background-color: lightcoral;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 20px;
+    padding: 1rem;
+}
